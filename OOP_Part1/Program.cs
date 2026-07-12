@@ -21,6 +21,8 @@
         public void Deposit(double amount)
         {
             Balance += amount;
+
+            SendEmail();
         }
 
        
@@ -30,6 +32,8 @@
             {
                 Balance -= amount;
             }
+
+            SendEmail();
         }
 
 
@@ -44,6 +48,12 @@
         {
             Console.WriteLine("Name : " + HolderName);
             Console.WriteLine("Balance: " + Balance);
+        }
+
+        private void SendEmail()
+        { 
+        
+           // some code to send email with operation information
         }
 
     }
