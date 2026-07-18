@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
+    <File Path="DatabaseTasks/API consuming.png" />
     <File Path="DatabaseTasks/Company ERD.jpg" />
   </Folder>
   <Project Path="CsharpCollections/CsharpCollections.csproj" Id="4bcc0f68-7cb2-403a-8429-eb352be1e376" />
