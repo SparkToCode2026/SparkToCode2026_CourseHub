@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="DatabaseTasks/Company ERD.jpg" />
+  </Folder>
   <Project Path="CsharpCollections/CsharpCollections.csproj" Id="4bcc0f68-7cb2-403a-8429-eb352be1e376" />
   <Project Path="CsharpFunctions/CsharpFunctions.csproj" Id="12110bec-73e7-40e0-9eab-c0a5e93624f9" />
   <Project Path="CsharpSession1/CsharpSession1.csproj" />
