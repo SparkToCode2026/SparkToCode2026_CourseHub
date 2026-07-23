@@ -7,6 +7,7 @@
   <Project Path="CsharpFunctions/CsharpFunctions.csproj" Id="12110bec-73e7-40e0-9eab-c0a5e93624f9" />
   <Project Path="CsharpSession1/CsharpSession1.csproj" />
   <Project Path="CsharpSession2/CsharpSession2.csproj" Id="849731de-ae65-48ff-9691-750e03f41492" />
+  <Project Path="EFCoreProject/EFCoreProject.csproj" Id="efd88bdc-de15-4349-a0f6-4a09dd1aa2b2" />
   <Project Path="OOP_Part1/OOP_Part1.csproj" Id="2b5bff04-5440-422a-a09f-2f503b1015ce" />
   <Project Path="OOP_Part1_TaskSolution/OOP_Part1_TaskSolution.csproj" Id="458a663c-cdc0-481d-bfee-21f9c405f6ee" />
   <Project Path="OOP_part2/OOP_part2.csproj" />
